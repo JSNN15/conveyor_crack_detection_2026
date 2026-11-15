@@ -2,7 +2,7 @@
 
 **Una cámara bajo el retorno de una correa transportadora y un modelo de IA en un computador local. Detecta grietas con la correa en marcha, confirma cada una en varios cuadros, la ubica en metros desde el empalme y genera la orden de trabajo.**
 
-[![Abrir la máquina](https://img.shields.io/badge/Probar-jsnn15.github.io%2Fmonitor--correas-3fd5f0?style=for-the-badge)](https://jsnn15.github.io/monitor-correas/)
+[![Abrir la herramienta](https://img.shields.io/badge/Probar-jsnn15.github.io%2Fmonitor--correas-3fd5f0?style=for-the-badge)](https://jsnn15.github.io/monitor-correas/)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-BeltCrack-111?style=flat-square)
 ![ONNX Runtime Web](https://img.shields.io/badge/ONNX%20Runtime-en%20el%20navegador-555?style=flat-square)
 ![Licencia](https://img.shields.io/badge/licencia-AGPL--3.0-blue?style=flat-square)
@@ -66,4 +66,4 @@ En un piloto real se entrena con dos a cuatro semanas de video de la correa del 
 ---
 
 <sub>Proyecto personal de **Julián Neira Nova**, ingeniero eléctrico con 10 años en faena · Servicio y Soluciones Tecnológicas DelaCruz SpA. Nada de lo publicado proviene de clientes ni de empleadores.
-[Portafolio](https://jsnn15.github.io/) · [LinkedIn](https://www.linkedin.com/in/julian-neira-nova/) · [Todas las máquinas](https://github.com/JSNN15)</sub>
+[Portafolio](https://jsnn15.github.io/) · [LinkedIn](https://www.linkedin.com/in/julian-neira-nova/) · [Todas las herramientas](https://github.com/JSNN15)</sub>
